@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on UBION data team
 - 📫 How to reach me ... doory114@gmail.com / dooryman114@naver.com
 -  my notion... https://www.notion.so/Hello-I-m-LEE-JUNG-HWAN-c6eed5882cf144669b14b4514798c475
+-  You can also visit my Tistory ..... https://jhda.tistory.com/
 
-<!---
-DOOryUniverse/DOOryUniverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
