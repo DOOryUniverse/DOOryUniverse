@@ -8,7 +8,7 @@
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://github.com/DOOryUniverse) <a href="https://jhda.tistory.com/"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:doory114@gmail.com)[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/jghwan2da/)
-[![Tistory Badge]("https://img.shields.io/badge/Tistory-white?style=flat-square&logo=Tistory&logoColor=black&link=https://jhda.tistory.com/)]
+<img src="https://img.shields.io/badge/Tistory-FFCA28?style=flat-square&logo=Tistory&logoColor=white"&link = https://jhda.tistory.com/>
 
 ### Who Am I
 
