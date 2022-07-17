@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DOOryUniverse
+- 👋 Hi, I’m DOOryUniverse
 - 👀 I’m interested in DATA Analyst
 - 🌱 I’m currently learning on Ubion- Big data Analyst
 - 💞️ I’m looking to collaborate on UBION data team
