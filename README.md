@@ -27,6 +27,8 @@ Swim
 
 
 
+
+
 # 💪Skills
 ### Platforms &amp; Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white)
