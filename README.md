@@ -12,7 +12,7 @@
 
 ### Who Am I
 
-- 🌱 I’m currently learning Coding
+- 🌱 I’m currently learning Coding -(R, Python , SQL)
 - 🥇 I majored in Industrial and Management Engineering (2016 ~ 2022)
 - 🚅 My hometown is Goyang, Gyeong-gi-do in Korea
 
